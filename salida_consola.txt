@@ -1,0 +1,29 @@
+=== TP1 - Paradigmas de Programación - UTN FRM ===
+
+Evento: Jornada de Tecnología (ID: EV01)
+Costo base: $10000.0
+Gratuito: No
+Costo estimado total: $18150.0
+Sala asignada: Sala Magna
+Actividades (2):
+[Charla] #1 - Introducción a Java | cupo máximo: 30 | costo materiales: $0.0
+[Taller] #2 - Taller de Spring Boot | cupo máximo: 20 | costo materiales: $5000.0
+
+Inscripciones en "Introducción a Java" (2):
+   - Ana Gómez | legajo: 50001 | fecha: 2026-08-27 | estado: Confirmada
+   - Luis Pérez | legajo: 50002 | fecha: 2026-08-27 | estado: Confirmada
+Inscripciones en "Taller de Spring Boot" (2):
+   - Luis Pérez | legajo: 50002 | fecha: 2026-08-27 | estado: Confirmada
+   - Marta Ruiz | legajo: 50003 | fecha: 2026-08-27 | estado: Confirmada
+
+--- Copia de evento1 (constructor de copia, Ejercicio 1) ---
+Evento: Jornada de Tecnología (ID: EV01)
+Costo base: $10000.0
+Gratuito: No
+Costo estimado total: $18150.0
+Sala asignada: Sala Magna
+Actividades (2):
+[Charla] #1 - Introducción a Java | cupo máximo: 30 | costo materiales: $0.0
+[Taller] #2 - Taller de Spring Boot | cupo máximo: 20 | costo materiales: $5000.0
+
+Total de eventos creados: 2
