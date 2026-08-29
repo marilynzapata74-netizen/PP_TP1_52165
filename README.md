@@ -1,4 +1,4 @@
-# PP_TP1_&lt;TU_LEGAJO&gt;
+# PP_TP_52165
 
 Trabajo Práctico N°1 — Programación Orientada a Objetos en Java
 Cátedra: Paradigmas de Programación — UTN Facultad Regional Mendoza
